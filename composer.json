@@ -1,5 +1,5 @@
 {
-  "name": "rhubarb/pikaday",
+  "name": "rhubarbphp/pikaday",
   "type" : "library",
   "description": "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS",
   "keywords": [
